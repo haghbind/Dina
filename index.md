@@ -11,6 +11,6 @@
 <h1>
 <a href="http://www.haghbinh.ir/"> mmy father link</a>
 </h1>
-<img src="A2.jpg"alt="Girl with a red jacket" width="500" height="400">
+<img src="image/A2.jpg"alt="Girl with a red jacket" width="500" height="400">
 </body>
 </html>
